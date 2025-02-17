@@ -40,17 +40,6 @@ Please use this link [https://docs.google.com/forms/d/e/1FAIpQLSfsi-ohcQGN_MYKcZ
 
 ---
 
-## **Advanced: Self-Hosting Updates (Optional)**
-If you want to allow users to update the extension without manually downloading files, you can self-host the `.crx` file and use an update manifest:
-1. Package the extension as a `.crx` file.
-2. Host the `.crx` file and an `update.xml` file on your website.
-3. Add the update URL to `manifest.json`:
-   ```json
-   "update_url": "https://yourwebsite.com/update.xml"
-   ```
-
----
-
 ## **Troubleshooting**
 If you encounter any issues or have feature requests, feel free to open an issue on [GitHub] or contact me.
 
