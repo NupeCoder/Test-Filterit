@@ -1,19 +1,19 @@
-# Test-Filterit
+# Test-Filterit 🕵️‍♂️
 A repository for early testers of FilterIt the web testing application
 
 ---
 
-## **Overview**
+## **Overview** 🗒️
 FilterIt is a Chrome extension that allows users to highlight or hide specific words on web pages. This extension runs locally on your browser and does not require installation from the Chrome Web Store.
 
 ---
 
-## **Support & Feedback**
+## **Support & Feedback** ✅
 Please use this link [https://docs.google.com/forms/d/e/1FAIpQLSfsi-ohcQGN_MYKcZOBVaqybW7GgvWd3rPE1GSAp1B4EY-hjw/viewform?usp=header] and answer the 5-6 questions on this feedback form after using the application. Your support and feedback means a lot!
 
 ---
 
-## **Installation Instructions**
+## **Installation Instructions** 📖
 
 ### **Step 1: Download the Extension**
 1. Download the latest version of the extension files as a `.zip` package.
@@ -33,14 +33,14 @@ Please use this link [https://docs.google.com/forms/d/e/1FAIpQLSfsi-ohcQGN_MYKcZ
 
 ---
 
-## **Uninstalling the Extension**
+## **Uninstalling the Extension** ❌
 1. Open `chrome://extensions/`.
 2. Find **FilterIt** in the list.
 3. Click **"Remove"**, then confirm when prompted.
 
 ---
 
-## **Troubleshooting**
+## **Troubleshooting** ⚔️
 If you encounter any issues or have feature requests, feel free to open an issue on [GitHub] or contact me.
 
 ---
