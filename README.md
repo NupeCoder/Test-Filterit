@@ -1,7 +1,7 @@
 # Test-Filterit
 A repository for early testers of FilterIt the web testing application
 
-# **FilterIt Chrome Extension**
+---
 
 ## **Overview**
 FilterIt is a Chrome extension that allows users to highlight or hide specific words on web pages. This extension runs locally on your browser and does not require installation from the Chrome Web Store.
