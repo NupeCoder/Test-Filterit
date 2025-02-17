@@ -17,7 +17,7 @@ Please use this link [https://docs.google.com/forms/d/e/1FAIpQLSfsi-ohcQGN_MYKcZ
 
 ### **Step 1: Download the Extension**
 1. Click on the `Green` 'Code' button on the Github Repository page
-2. Download the latest version of the extension files as a `.zip` package.
+2. Download as a `.zip` package.
 3. Extract the first `.zip` file.
 4. Extract the second `.zip` file to a folder on your computer (e.g., `filterit-extension`).
 
